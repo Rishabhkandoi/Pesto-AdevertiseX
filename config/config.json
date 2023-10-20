@@ -1,0 +1,15 @@
+{
+    "data_sources": {
+        "ad_impressions_path": "/path/to/impressions.json",
+        "clicks_conversions_path": "/path/to/clicks_conversions.csv",
+        "bid_requests_path": "/path/to/bid_requests.avro"
+    },
+    "data_storage": {
+        "output_path": "/path/to/data_output/"
+    },
+    "monitoring": {
+        "prometheus_url": "http://localhost:9090",
+        "grafana_url": "http://localhost:3000"
+    }
+}
+

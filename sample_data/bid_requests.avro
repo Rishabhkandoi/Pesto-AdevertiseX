@@ -1,0 +1,6 @@
+[
+    {"user_info": {"user_id": "user123"}, "auction_details": {"auction_id": "auction1"}, "ad_targeting": {"criteria": "targeting1"}},
+    {"user_info": {"user_id": "user456"}, "auction_details": {"auction_id": "auction2"}, "ad_targeting": {"criteria": "targeting2"}},
+    // Add more sample records
+]
+

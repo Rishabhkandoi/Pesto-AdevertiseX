@@ -1,0 +1,16 @@
+[
+    {
+        "ad_id": "ad123",
+        "user_id": "user456",
+        "timestamp": "2023-10-20T15:30:00Z",
+        "website": "example.com"
+    },
+    {
+        "ad_id": "ad456",
+        "user_id": "user789",
+        "timestamp": "2023-10-20T15:45:00Z",
+        "website": "sample-site.com"
+    },
+    // Add more sample records
+]
+
