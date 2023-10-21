@@ -3,16 +3,16 @@
 ## Table of Contents
 
 1. [Project Overview](#1-project-overview)
-2. [Directory Structure](#directory-structure)
-3. [Data Ingestion](#data-ingestion)
-4. [Data Processing](#data-processing)
-5. [Data Storage](#data-storage)
-6. [Query Performance Optimization](#query-performance-optimization)
-7. [Error Handling and Monitoring](#error-handling-and-monitoring)
-8. [Dependencies](#dependencies)
-9. [Documentation](#documentation)
-10. [Sample Data](#sample-data)
-11. [Configuration](#configuration)
+2. [Directory Structure](#2-directory-structure)
+3. [Data Ingestion](#3-data-ingestion)
+4. [Data Processing](#4-data-processing)
+5. [Data Storage](#5-data-storage)
+6. [Query Performance Optimization](#6-query-performance-optimization)
+7. [Error Handling and Monitoring](#7-error-handling-and-monitoring)
+8. [Dependencies](#8-dependencies)
+9. [Documentation](#9-documentation)
+10. [Sample Data](#10-sample-data)
+11. [Configuration](#11-configuration)
 
 ## 1. Project Overview
 
