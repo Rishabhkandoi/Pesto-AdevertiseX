@@ -2,7 +2,7 @@
 
 ## Table of Contents
 
-1. [Project Overview](#project-overview)
+1. [Project Overview](#1-project-overview)
 2. [Directory Structure](#directory-structure)
 3. [Data Ingestion](#data-ingestion)
 4. [Data Processing](#data-processing)
